@@ -1,0 +1,2 @@
+Stock_Item_Key,Stock_Item,Color,Selling_Package,Buying_Package,Size_val,Lead_Time_Days,Quantity_Per_Outer,Is_Chiller_Stock,Tax_Rate,Unit_Price,Recommended_Retail_Price,Typical_Weight_Per_Unit
+0,Unknown,Unknown,,,Unknown,0,0,False,.000,.00,.00,.000
